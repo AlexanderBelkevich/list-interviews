@@ -13,6 +13,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "dayjs": "^1.11.11",
     "firebase": "^10.11.0",
     "pinia": "^2.1.7",
     "primeflex": "^3.3.1",
